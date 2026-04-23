@@ -1,26 +1,21 @@
 # BuildAut
 
-> Build Automation Platform
+> Innovation for modern home building
 
-## Sobre
+## About
 
-BuildAut é uma plataforma de automação para construção civil e design de interiores.
+Technology arm of **B1 Homes**, a leading first home builder based in Osborne Park, WA, Australia.
 
-## Nossos Projetos
+## What we do
 
-Nossa organização desenvolve ferramentas para:
-- **Automação de projetos** - Otimização de fluxos de trabalho
-- **Assets procedurais** - Geração de materiais e objetos 3D
-- **Integração com Blender** - Plugins e bibliotecas para modelagem
-- **Inteligência Artificial** - Triage e resposta automatizada (Banksia)
+- **Workflow optimization** — Streamlined processes from first contact to key handover
+- **Smart design** — Tools for home customization and visualization
+- **Operational automation** — Systems that reduce complexity and turnaround time
 
-## Tecnologias
+## Our mission
 
-- Python
-- TypeScript/JavaScript
-- Blender Python API
-- Model Context Protocol (MCP)
+Transform the first home building experience into something simple, transparent, and accessible.
 
 ---
 
-*Esta é uma organização privada. Projetos específicos não são públicos.*
+Learn more: [b1homes.com.au](http://www.b1homes.com.au/)
